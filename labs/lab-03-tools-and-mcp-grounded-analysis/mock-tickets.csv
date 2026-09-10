@@ -1,0 +1,6 @@
+ticket_id,category,resolution_minutes,sla_breached
+T-001,delivery,42,no
+T-002,refund,95,yes
+T-003,product,55,no
+T-004,delivery,130,yes
+T-005,account,38,no

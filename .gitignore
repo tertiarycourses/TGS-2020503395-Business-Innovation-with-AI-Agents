@@ -1,0 +1,12 @@
+.env
+courseware/.env
+assessment/
+reference/
+.claude/
+build/
+__pycache__/
+*.pyc
+courseware/assets/
+build_business_agents_courseware.py
+build_business_agents_assessment.py
+course_source.py

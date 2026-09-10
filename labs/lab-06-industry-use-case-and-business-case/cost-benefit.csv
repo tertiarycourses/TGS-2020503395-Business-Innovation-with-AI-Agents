@@ -1,0 +1,6 @@
+item,amount_sgd
+gross_benefit,24000
+build_cost,7000
+run_cost,3000
+human_review_cost,4200
+expected_failure_loss,1800

@@ -1,0 +1,11 @@
+id,industry,use_case,value,feasibility,governability,evidence
+1,Retail,Service recovery,8,8,7,8
+2,B2B Sales,Lead intelligence,7,8,7,7
+3,Manufacturing,Exception triage,9,6,5,7
+4,Logistics,Disruption planning,9,6,5,7
+5,Banking,KYC review pack,8,5,5,8
+6,Healthcare,Discharge education,8,6,5,8
+7,HR,Policy navigator,7,8,7,8
+8,Public Service,Case intake,7,7,6,7
+9,Marketing,Campaign production,8,8,6,7
+10,Media,Video campaign,8,6,5,6
