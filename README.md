@@ -12,6 +12,10 @@
 
 </div>
 
+## Course preview
+
+![Business Innovation with AI Agents courseware cover](screenshot.png)
+
 ## What learners build
 
 - A clear comparison of prompt, context, harness and agent engineering from 2023 to 2026.
